@@ -1,6 +1,6 @@
 # 3-Fruits-Detection
 
-This repository contains a trained classifier that can detect 3 types of fruits namely Apple, Banana and Orange. To run the classifier, just download the zip file, extract it. Then run the object_detection_image.py or the object_detection_video.py files present in the object_detection directory.
+This repository contains a trained classifier that can detect 3 types of fruits namely Apple, Banana and Orange. To run the classifier, just download the zip file, extract it. Then run the object_detection_image.py or the object_detection_video.py files present in the object_detection directory with your Python 3.5.x or 3.6.x IDLE.
 
 If you run the object_detection_image.py file, then changing the string in IMAGE_NAME variable in  line 34 to the required image name will help to run the classifier on that image. But for that, you must put that image in the object_detection directory. Otherwise, a default image name is added in line 34 and that image is present in the directory. So you can just run the code and get the output after 20-30 seconds.
 
